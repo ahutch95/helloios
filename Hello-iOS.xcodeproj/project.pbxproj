@@ -34,17 +34,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		9D855D171E8B3C1B007DA719 /* hutchHelloWorld.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = hutchHelloWorld.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9D855D171E8B3C1B007DA719 /* hutchHello-iOSWorld.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "hutchHello-iOSWorld.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D855D1A1E8B3C1B007DA719 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9D855D1C1E8B3C1B007DA719 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		9D855D1F1E8B3C1B007DA719 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		9D855D211E8B3C1B007DA719 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9D855D241E8B3C1B007DA719 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9D855D261E8B3C1B007DA719 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		9D855D2B1E8B3C1B007DA719 /* hutchHelloWorldTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = hutchHelloWorldTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		9D855D2B1E8B3C1B007DA719 /* hutchHello-iOSWorldTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "hutchHello-iOSWorldTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D855D2F1E8B3C1C007DA719 /* hutchHelloWorldTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hutchHelloWorldTests.swift; sourceTree = "<group>"; };
 		9D855D311E8B3C1C007DA719 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		9D855D361E8B3C1C007DA719 /* hutchHelloWorldUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = hutchHelloWorldUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		9D855D361E8B3C1C007DA719 /* hutchHello-iOSWorldUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "hutchHello-iOSWorldUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D855D3A1E8B3C1C007DA719 /* hutchHelloWorldUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hutchHelloWorldUITests.swift; sourceTree = "<group>"; };
 		9D855D3C1E8B3C1C007DA719 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -87,9 +87,9 @@
 		9D855D181E8B3C1B007DA719 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				9D855D171E8B3C1B007DA719 /* hutchHelloWorld.app */,
-				9D855D2B1E8B3C1B007DA719 /* hutchHelloWorldTests.xctest */,
-				9D855D361E8B3C1C007DA719 /* hutchHelloWorldUITests.xctest */,
+				9D855D171E8B3C1B007DA719 /* hutchHello-iOSWorld.app */,
+				9D855D2B1E8B3C1B007DA719 /* hutchHello-iOSWorldTests.xctest */,
+				9D855D361E8B3C1C007DA719 /* hutchHello-iOSWorldUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -128,9 +128,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		9D855D161E8B3C1B007DA719 /* hutchHelloWorld */ = {
+		9D855D161E8B3C1B007DA719 /* hutchHello-iOSWorld */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9D855D3F1E8B3C1C007DA719 /* Build configuration list for PBXNativeTarget "hutchHelloWorld" */;
+			buildConfigurationList = 9D855D3F1E8B3C1C007DA719 /* Build configuration list for PBXNativeTarget "hutchHello-iOSWorld" */;
 			buildPhases = (
 				9D855D131E8B3C1B007DA719 /* Sources */,
 				9D855D141E8B3C1B007DA719 /* Frameworks */,
@@ -140,14 +140,14 @@
 			);
 			dependencies = (
 			);
-			name = hutchHelloWorld;
+			name = "hutchHello-iOSWorld";
 			productName = hutchHelloWorld;
-			productReference = 9D855D171E8B3C1B007DA719 /* hutchHelloWorld.app */;
+			productReference = 9D855D171E8B3C1B007DA719 /* hutchHello-iOSWorld.app */;
 			productType = "com.apple.product-type.application";
 		};
-		9D855D2A1E8B3C1B007DA719 /* hutchHelloWorldTests */ = {
+		9D855D2A1E8B3C1B007DA719 /* hutchHello-iOSWorldTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9D855D421E8B3C1C007DA719 /* Build configuration list for PBXNativeTarget "hutchHelloWorldTests" */;
+			buildConfigurationList = 9D855D421E8B3C1C007DA719 /* Build configuration list for PBXNativeTarget "hutchHello-iOSWorldTests" */;
 			buildPhases = (
 				9D855D271E8B3C1B007DA719 /* Sources */,
 				9D855D281E8B3C1B007DA719 /* Frameworks */,
@@ -158,14 +158,14 @@
 			dependencies = (
 				9D855D2D1E8B3C1B007DA719 /* PBXTargetDependency */,
 			);
-			name = hutchHelloWorldTests;
+			name = "hutchHello-iOSWorldTests";
 			productName = hutchHelloWorldTests;
-			productReference = 9D855D2B1E8B3C1B007DA719 /* hutchHelloWorldTests.xctest */;
+			productReference = 9D855D2B1E8B3C1B007DA719 /* hutchHello-iOSWorldTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		9D855D351E8B3C1C007DA719 /* hutchHelloWorldUITests */ = {
+		9D855D351E8B3C1C007DA719 /* hutchHello-iOSWorldUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9D855D451E8B3C1C007DA719 /* Build configuration list for PBXNativeTarget "hutchHelloWorldUITests" */;
+			buildConfigurationList = 9D855D451E8B3C1C007DA719 /* Build configuration list for PBXNativeTarget "hutchHello-iOSWorldUITests" */;
 			buildPhases = (
 				9D855D321E8B3C1C007DA719 /* Sources */,
 				9D855D331E8B3C1C007DA719 /* Frameworks */,
@@ -176,9 +176,9 @@
 			dependencies = (
 				9D855D381E8B3C1C007DA719 /* PBXTargetDependency */,
 			);
-			name = hutchHelloWorldUITests;
+			name = "hutchHello-iOSWorldUITests";
 			productName = hutchHelloWorldUITests;
-			productReference = 9D855D361E8B3C1C007DA719 /* hutchHelloWorldUITests.xctest */;
+			productReference = 9D855D361E8B3C1C007DA719 /* hutchHello-iOSWorldUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -207,7 +207,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 9D855D121E8B3C1B007DA719 /* Build configuration list for PBXProject "Hello" */;
+			buildConfigurationList = 9D855D121E8B3C1B007DA719 /* Build configuration list for PBXProject "Hello-iOS" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -220,9 +220,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				9D855D161E8B3C1B007DA719 /* hutchHelloWorld */,
-				9D855D2A1E8B3C1B007DA719 /* hutchHelloWorldTests */,
-				9D855D351E8B3C1C007DA719 /* hutchHelloWorldUITests */,
+				9D855D161E8B3C1B007DA719 /* hutchHello-iOSWorld */,
+				9D855D2A1E8B3C1B007DA719 /* hutchHello-iOSWorldTests */,
+				9D855D351E8B3C1C007DA719 /* hutchHello-iOSWorldUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -285,12 +285,12 @@
 /* Begin PBXTargetDependency section */
 		9D855D2D1E8B3C1B007DA719 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 9D855D161E8B3C1B007DA719 /* hutchHelloWorld */;
+			target = 9D855D161E8B3C1B007DA719 /* hutchHello-iOSWorld */;
 			targetProxy = 9D855D2C1E8B3C1B007DA719 /* PBXContainerItemProxy */;
 		};
 		9D855D381E8B3C1C007DA719 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 9D855D161E8B3C1B007DA719 /* hutchHelloWorld */;
+			target = 9D855D161E8B3C1B007DA719 /* hutchHello-iOSWorld */;
 			targetProxy = 9D855D371E8B3C1C007DA719 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -442,7 +442,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.ahutch95.hutchHelloWorldTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/hutchHelloWorld.app/hutchHelloWorld";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/hutchHello-iOSWorld.app/hutchHello-iOSWorld";
 			};
 			name = Debug;
 		};
@@ -456,7 +456,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.ahutch95.hutchHelloWorldTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/hutchHelloWorld.app/hutchHelloWorld";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/hutchHello-iOSWorld.app/hutchHello-iOSWorld";
 			};
 			name = Release;
 		};
@@ -489,7 +489,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		9D855D121E8B3C1B007DA719 /* Build configuration list for PBXProject "Hello" */ = {
+		9D855D121E8B3C1B007DA719 /* Build configuration list for PBXProject "Hello-iOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9D855D3D1E8B3C1C007DA719 /* Debug */,
@@ -498,7 +498,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9D855D3F1E8B3C1C007DA719 /* Build configuration list for PBXNativeTarget "hutchHelloWorld" */ = {
+		9D855D3F1E8B3C1C007DA719 /* Build configuration list for PBXNativeTarget "hutchHello-iOSWorld" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9D855D401E8B3C1C007DA719 /* Debug */,
@@ -506,7 +506,7 @@
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		9D855D421E8B3C1C007DA719 /* Build configuration list for PBXNativeTarget "hutchHelloWorldTests" */ = {
+		9D855D421E8B3C1C007DA719 /* Build configuration list for PBXNativeTarget "hutchHello-iOSWorldTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9D855D431E8B3C1C007DA719 /* Debug */,
@@ -514,7 +514,7 @@
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		9D855D451E8B3C1C007DA719 /* Build configuration list for PBXNativeTarget "hutchHelloWorldUITests" */ = {
+		9D855D451E8B3C1C007DA719 /* Build configuration list for PBXNativeTarget "hutchHello-iOSWorldUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9D855D461E8B3C1C007DA719 /* Debug */,

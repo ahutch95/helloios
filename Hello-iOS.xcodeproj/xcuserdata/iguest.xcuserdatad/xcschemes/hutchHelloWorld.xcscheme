@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "9D855D161E8B3C1B007DA719"
-               BuildableName = "hutchHelloWorld.app"
-               BlueprintName = "hutchHelloWorld"
-               ReferencedContainer = "container:Hello.xcodeproj">
+               BuildableName = "hutchHello-iOSWorld.app"
+               BlueprintName = "hutchHello-iOSWorld"
+               ReferencedContainer = "container:Hello-iOS.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "9D855D2A1E8B3C1B007DA719"
-               BuildableName = "hutchHelloWorldTests.xctest"
-               BlueprintName = "hutchHelloWorldTests"
-               ReferencedContainer = "container:Hello.xcodeproj">
+               BuildableName = "hutchHello-iOSWorldTests.xctest"
+               BlueprintName = "hutchHello-iOSWorldTests"
+               ReferencedContainer = "container:Hello-iOS.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "9D855D351E8B3C1C007DA719"
-               BuildableName = "hutchHelloWorldUITests.xctest"
-               BlueprintName = "hutchHelloWorldUITests"
-               ReferencedContainer = "container:Hello.xcodeproj">
+               BuildableName = "hutchHello-iOSWorldUITests.xctest"
+               BlueprintName = "hutchHello-iOSWorldUITests"
+               ReferencedContainer = "container:Hello-iOS.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9D855D161E8B3C1B007DA719"
-            BuildableName = "hutchHelloWorld.app"
-            BlueprintName = "hutchHelloWorld"
-            ReferencedContainer = "container:Hello.xcodeproj">
+            BuildableName = "hutchHello-iOSWorld.app"
+            BlueprintName = "hutchHello-iOSWorld"
+            ReferencedContainer = "container:Hello-iOS.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9D855D161E8B3C1B007DA719"
-            BuildableName = "hutchHelloWorld.app"
-            BlueprintName = "hutchHelloWorld"
-            ReferencedContainer = "container:Hello.xcodeproj">
+            BuildableName = "hutchHello-iOSWorld.app"
+            BlueprintName = "hutchHello-iOSWorld"
+            ReferencedContainer = "container:Hello-iOS.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9D855D161E8B3C1B007DA719"
-            BuildableName = "hutchHelloWorld.app"
-            BlueprintName = "hutchHelloWorld"
-            ReferencedContainer = "container:Hello.xcodeproj">
+            BuildableName = "hutchHello-iOSWorld.app"
+            BlueprintName = "hutchHello-iOSWorld"
+            ReferencedContainer = "container:Hello-iOS.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
